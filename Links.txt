@@ -1,0 +1,11 @@
+1_linear_regression_boston_housing
+https://colab.research.google.com/drive/1GYLvDgTSSWJABw72Zwd3UX_ecEO9gYBM?usp=sharing
+
+2_binary_classification_imdb
+https://colab.research.google.com/drive/1HJ4DxkSY1RVkQs1lQ8WKhVtyYwpbejp-?usp=sharing
+
+3_ multiclass_classification_ocr
+https://colab.research.google.com/drive/1nmEvJ5wyQ5Z_RugZFFuiHcMrGFXnytBZ?usp=sharing
+
+4_ fashion_classifier_mnist
+https://colab.research.google.com/drive/1YqEeMhLglmpXVRXRfR6QV6mih8QYyk_8?usp=sharing
